@@ -1,0 +1,9 @@
+# Ignore Docker data and databse files
+work/data
+*.db
+*.sqlite
+*.json
+
+# OS and Editor temporary files
+.DS_Store
+*.swp
